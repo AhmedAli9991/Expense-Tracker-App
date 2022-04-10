@@ -9,6 +9,9 @@ Transactions and budgeting web app which helps user manage their expenses
 - SQLAlchemy
 - Alembic
 - Pydantic
+- React
+- React Router Dom v6
+- axios
 - Postman
 
 ### Features
