@@ -1,4 +1,4 @@
-# transatctions-and-budgets
+# Expense Tracker
 Transactions and budgeting web app which helps user manage their expenses 
 ### tools used
 
