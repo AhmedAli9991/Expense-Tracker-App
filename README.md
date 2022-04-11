@@ -31,9 +31,9 @@ user can manage the transac
 
 
 how to run
-- install all packages in requirements.txt file  ** pip install -r requirements.txt
-- install dependencies for react ** npm install
-- start server ** uvicorn main:app --reload
-- start client ** npm start
+- install all packages in requirements.txt file  **pip install -r requirements.txt**
+- install dependencies for react **npm install**
+- start server **uvicorn main:app --reload**
+- start client **npm start**
 
 ### End
